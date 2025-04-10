@@ -1,4 +1,4 @@
-# Cybersecurity Analyst Training
+# IT/Cybersecurity Analyst Training
 
 ## About this Repository
 Welcome to my Cybersecurity Analyst Training repository! This repo showcases my learning journey and practical experience as I work to develop the skills necessary to become a proficient Cybersecurity Analyst.
